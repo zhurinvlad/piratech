@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  url: MyString
+  check: false
+  send_number: 
+
+two:
+  url: MyString
+  check: false
+  send_number: 

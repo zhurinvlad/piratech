@@ -1,0 +1,27 @@
+development:
+  adapter: postgresql
+  database: piratech_development
+  host: localhost
+  user: healthuser
+  password: 'WQh_T%Y@^7j2dkx-5'
+
+test:
+  adapter: postgresql
+  database: piratech_test
+  host: localhost
+  user: healthuser
+  password: 'WQh_T%Y@^7j2dkx-5'
+
+staging:
+  adapter: postgresql
+  database: piratech_staging
+  host: localhost
+  user: healthuser
+  password: 'WQh_T%Y@^7j2dkx-5'
+
+production:
+  adapter: postgresql
+  database: piratechs
+  host: localhost
+  user: healthuser
+  password: 'WQh_T%Y@^7j2dkx-5'

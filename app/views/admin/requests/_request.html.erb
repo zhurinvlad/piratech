@@ -1,0 +1,5 @@
+<%= form_tag import_requests_path, multipart: true do %>
+    <h2>Import Products</h2>
+    <%= file_field_tag :file %>
+    <%= submit_tag "Import" %>
+<% end %>
